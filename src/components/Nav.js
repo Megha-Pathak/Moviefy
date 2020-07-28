@@ -4,7 +4,7 @@ const Nav = () => {
     return (
         <nav>
             <div class="nav-wrapper container">
-                <a href="#" class="brand-logo center">Moviefy</a>                
+                <a href="https://moviefy-iota.vercel.app/" class="brand-logo center">Moviefy</a>                
             </div>
         </nav>
     )
